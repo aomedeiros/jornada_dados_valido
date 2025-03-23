@@ -38,12 +38,10 @@ Meus Documentos/
 Modelos/
 Recent/
 SendTo/
-.anaconda/
 .bash_history
 .conda/
 .continuum/
 .cursor/
-.gitconfig
 .ipython/
 .jupyter/
 .lesshst
@@ -51,7 +49,6 @@ SendTo/
 .rfb/
 .ssh/
 .virtual_documents/
-.vscode/
 7z2201-x64.exe
 AnyDesk.exe
 AppData/
