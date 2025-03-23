@@ -1,0 +1,93 @@
+.anaconda/
+.conda/
+.continuum/
+.cursor/
+.ipython/
+.jupyter/
+.pyenv/
+.rfb/
+.ssh/
+.vscode/
+AppData/
+Application Data/
+Downloads/
+Microsoft/
+Music/
+OneDrive/
+Pictures/
+"Testando cria\303\247ao pasta/"
+anaconda3/
+node-v22.11.0-x64.msi
+ntuser.dat
+ntuser.dat.log1
+ntuser.dat.log2
+ntuser.ini
+*.exe
+*.msi
+*.lnk
+Ambiente de Impressão/
+Ambiente de Rede/
+Configurações Locais/
+Cookies/
+Dados de Aplicativos/
+Documents/Meus Vídeos/
+Documents/Minhas Imagens/
+Documents/Minhas Músicas/
+Menu Iniciar/
+Meus Documentos/
+Modelos/
+Recent/
+SendTo/
+.anaconda/
+.bash_history
+.conda/
+.continuum/
+.cursor/
+.ipython/
+.jupyter/
+.lesshst
+.pyenv/
+.rfb/
+.ssh/
+.virtual_documents/
+7z2201-x64.exe
+AnyDesk.exe
+AppData/
+Application Data/
+Contacts/
+CursorUserSetup-x64-0.47.8.exe
+Downloads/
+Este Computador - Atalho.lnk
+Evernote-latest.exe
+Favorites/
+Links/
+MagicClone/
+MagicUtilities-Setup-3.1.2.6-Win10.exe
+Microsoft/
+MuEditor-win64-1.2.0.msi
+Music/
+NTUSER.DAT{a6e16eca-68e1-11ed-956b-484d7efbfa1a}.TM.blf
+NTUSER.DAT{a6e16eca-68e1-11ed-956b-484d7efbfa1a}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{a6e16eca-68e1-11ed-956b-484d7efbfa1a}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+"Testando cria\303\247ao pasta/"
+Tracing/
+anaconda3/
+install-pyenv-win.ps1
+mu_code/
+node-v22.11.0-x64.msi
+ntuser.dat
+ntuser.dat.log1
+ntuser.dat.log2
+ntuser.dat{b0c0f8bb-21cf-11ef-9606-00d76d8d4ee6}.TxR.0.regtrans-ms
+ntuser.dat{b0c0f8bb-21cf-11ef-9606-00d76d8d4ee6}.TxR.1.regtrans-ms
+ntuser.dat{b0c0f8bb-21cf-11ef-9606-00d76d8d4ee6}.TxR.2.regtrans-ms
+ntuser.dat{b0c0f8bb-21cf-11ef-9606-00d76d8d4ee6}.TxR.blf
+ntuser.dat{b0c0f8bc-21cf-11ef-9606-00d76d8d4ee6}.TM.blf
+ntuser.dat{b0c0f8bc-21cf-11ef-9606-00d76d8d4ee6}.TMContainer00000000000000000001.regtrans-ms
+ntuser.dat{b0c0f8bc-21cf-11ef-9606-00d76d8d4ee6}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
+package.json
